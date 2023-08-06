@@ -1,0 +1,17 @@
+{
+    "devbench": {
+      "scenarios": [
+        { "name": "scenario_1", "result": "pass" },
+        { "name": "scenario_2", "result": "fail" }
+      ],
+      "missing": ["scenario_3", "scenario_4"]
+    },
+    "testbench": {
+      "scenarios": [
+        { "name": "scenario_1", "result": "fail" },
+        { "name": "scenario_3", "result": "pass" }
+      ],
+      "missing": ["scenario_2", "scenario_4"]
+    }
+  }
+  
