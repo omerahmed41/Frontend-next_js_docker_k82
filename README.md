@@ -1,7 +1,3 @@
-Certainly! Here's a README file for your Next.js project based on the information provided above:
-
----
-
 # Hello-Next
 
 A Next.js application showcasing tests, scenarios, and overviews for devbench and testbench data. This application provides data-driven insights using tables and descriptive statistics sourced from JSON files.
